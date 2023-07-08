@@ -6,3 +6,7 @@ print(random_integer)
 
 
 print(my_module.pi)
+
+random_float = random.random()
+print(random_float)
+
