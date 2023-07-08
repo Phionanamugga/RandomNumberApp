@@ -10,3 +10,6 @@ print(my_module.pi)
 random_float = random.random()
 print(random_float)
 
+randomFloat = random.random()*5
+print(randomFloat)
+
